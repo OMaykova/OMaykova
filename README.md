@@ -7,12 +7,15 @@
 * 👥 Хочу работать с опытными коллегами
 * 😄 а еще я творческий человек, увлекаюсь живописью и хочу научиться играть на piano
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/olga-maykova/)
 ### Мой стек:
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### :bar_chart:Моя статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaykova)](https://github.com/omaykova/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaykova&layout=compact)](https://github.com/omaykova/github-readme-stats)
+
 
 [![codewars](https://www.codewars.com/users/Dolka/badges/micro)](https://www.codewars.com/users/Dolka) 
 
