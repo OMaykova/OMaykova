@@ -18,8 +18,8 @@ About me:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### :bar_chart:GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaykova)](https://github.com/omaykova/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaykova&layout=compact)](https://github.com/omaykova/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaykova)](https://github.com/OMaykova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaykova&layout=compact)](https://github.com/OMaykova/github-readme-stats)
 
 
 
